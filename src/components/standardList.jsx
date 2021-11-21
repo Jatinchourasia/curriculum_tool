@@ -5,7 +5,6 @@ import { DndComponent } from "./dndComponent";
 import { ErrorPopup } from "./errorPopup";
 import { UploadFile } from "./uploadFile";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-// import { faTimesCircle } from "@fortawesome/free-regular-svg-icons";
 import { faTimesCircle as farTimesCircle } from "@fortawesome/free-regular-svg-icons";
 
 export const StandardList = () => {

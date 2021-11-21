@@ -1,6 +1,4 @@
-import React, { useState } from "react";
-import { DndComponent } from "./components/dndComponent";
-
+import React from "react";
 import { Header } from "./components/header";
 import { StandardList } from "./components/standardList";
 function App() {
