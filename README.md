@@ -1,10 +1,13 @@
-# Install dependencies
+# curriculam tool
 
-### `yarn add`
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn add`
+
+Install all the dependencies
 
 ### `yarn start`
 
